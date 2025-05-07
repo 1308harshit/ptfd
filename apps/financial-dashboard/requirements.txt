@@ -1,0 +1,10 @@
+streamlit==1.30.0
+pandas==2.0.3
+numpy==1.24.4
+plotly==5.18.0
+sqlalchemy==2.0.23
+mysql-connector-python==8.2.0
+python-dotenv==1.0.0
+json5==0.9.14  # For more robust JSON handling
+requests==2.31.0  # For API calls if needed
+graphviz==0.20.1  # For code path visualization
